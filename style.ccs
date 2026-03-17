@@ -7,9 +7,6 @@ header {
   min-height: 50px;
 }
 
-
-
-
 main {
   background-color: cyan;
   min-height: 500px;
@@ -18,4 +15,8 @@ main {
 footer {
   background-color: orange;
   min-height: 100px;
+}
+
+table tr {
+  background-color: aquamarine;
 }
